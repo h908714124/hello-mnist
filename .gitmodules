@@ -1,4 +1,3 @@
 [submodule "modules/tf-models"]
 	path = modules/tf-models
 	url = https://github.com/tensorflow/models.git
-	branch = master
